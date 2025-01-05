@@ -12,6 +12,7 @@ Este script realiza un web scraping en la página dockerlabs.es, para extraer y 
 Para ejecutar este script, debes tener las siguientes bibliotecas instaladas:
 
 -> requests: Para realizar la petición HTTP.
+
 -> beautifulsoup4: Para analizar y extraer información del HTML de la página web.
 
 Si no tienes estas bibliotecas instaladas, puedes hacerlo ejecutando el siguiente comando:
